@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a software developer, with a professional focus on Java (and certain legacy programming languages, much to my dismay).
 
-### More Information
+### Projects
 
-A place to include any other types of information that you'd like to include about yourself.
+[telegram-bot-api](https://github.com/errebenito/telegrambotapi) - A Java implementation of the [Telegram Bot API](https://core.telegram.org/bots/api)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[erre.benito@gmail.com](mailto:erre.benito@gmail.com)
