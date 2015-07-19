@@ -8,7 +8,7 @@ I'm a software developer, with a professional focus on Java (and certain legacy 
 
 ### Projects
 
-[telegram-bot-api](https://github.com/errebenito/telegrambotapi) - A Java implementation of the [Telegram Bot API](https://core.telegram.org/bots/api)
+[telegrambotapi](https://github.com/errebenito/telegrambotapi) - A Java implementation of the [Telegram Bot API](https://core.telegram.org/bots/api)
 
 ### Contact me
 
