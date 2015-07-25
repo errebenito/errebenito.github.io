@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing telegrambotapi
-tags: [Telegram] 
+tags: Telegram Java
 categories:
 - Projects
 ---

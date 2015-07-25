@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a software developer, with a professional focus on Java (and certain legacy programming languages, much to my dismay). I work on my personal projects using Eclipse on Linux, with Maven for building and dependency management, PMD and Checkstyle to make even prettier code, and the git command line client to put them on github.
+After obtaining a Degree in Computer Engineering at the Escola T\`ecnica Superior d'Enginyeria (Universitat Rovira i Virgili), I started working as a developer for T-Systems Iberia. As I focus professionally on developing web apps using Java, I decided to expand my skill set by working on personal projects using various technologies and tools that differ from what I use at work. To know more about my education and work experience you can [read my CV](https://raw.githubusercontent.com/errebenito/errebenito.github.io/master/files/CV_Raul_Benito.pdf).
 
 ### Projects
 
