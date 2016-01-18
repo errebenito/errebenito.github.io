@@ -9,6 +9,7 @@ After obtaining a Degree in Computer Engineering at the Escola T\`ecnica Superio
 ### Projects
 
 [telegrambotapi](https://github.com/errebenito/telegrambotapi) - A Java implementation of the [Telegram Bot API](https://core.telegram.org/bots/api).
+
 [QuickTacToe](https://github.com/errebenito/QuickTacToe) - A Tic Tac Toe game written in C++ using Qt.
 
 ### Contact me
