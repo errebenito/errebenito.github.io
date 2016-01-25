@@ -33,15 +33,26 @@
     </ul>
     <hr/>
     <h4>Archive</h4>
-    <ul>
-      {% if page.date %}{% capture pageYear %}{{page.date| date: "%Y"}}{% endcapture %}{% endif %}
-      {% for y in site.years reversed %}
-        {% if y  == pageYear %}
-          <li><b><a href="/archive.html#{{y}}">{{y}}</a></b></li>
-        {% else %}
-          <li><a href="/archive.html#{{y}}">{{y}}</a></li>
+    {% for post in site.posts  %}
+        {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+        {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+        {% if forloop.first %}
+            <h6 id="{{ this_year }}-ref">{{this_year}}</h2>
+            <ul>
         {% endif %}
-      {% endfor %}
-    </ul>
+
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+
+        {% if forloop.last %}
+            </ul>
+        {% else %}
+            {% if this_year != next_year %}
+                </ul>
+                    <h6 id="{{ next_year }}-ref">{{next_year}}</h2>
+                <ul>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
   </div>
 </div>

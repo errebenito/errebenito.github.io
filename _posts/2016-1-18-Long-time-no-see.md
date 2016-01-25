@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2016/1/18
 title: Long time no see
 tags: C++ Qt games personal
 categories:
