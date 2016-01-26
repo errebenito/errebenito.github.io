@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about_page
 title: About
 permalink: /about/
 ---
@@ -12,6 +12,4 @@ After obtaining a Degree in Computer Engineering at the Escola T\`ecnica Superio
 
 [QuickTacToe](https://github.com/errebenito/QuickTacToe) - A Tic Tac Toe game written in C++ using Qt.
 
-### Contact me
-
-[erre.benito@gmail.com](mailto:erre.benito@gmail.com)
+### Contact
