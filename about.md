@@ -12,4 +12,6 @@ After obtaining a Degree in Computer Engineering at the Escola T\`ecnica Superio
 
 [QuickTacToe](https://github.com/errebenito/QuickTacToe) - A Tic Tac Toe game written in C++ using Qt.
 
+[Tweesten](https://github.com/errebenito/tweesten) - A Python utility to tweet a collage of album covers based on your last.fm scrobbles.
+
 ### Contact
